@@ -1,5 +1,5 @@
 temperaturas = [
-    [   # Ciudad 1
+    [   # Santo Domingo
         [   # Semana 1
             {"day": "Lunes", "temp": 55},
             {"day": "Martes", "temp": 77},
@@ -37,7 +37,7 @@ temperaturas = [
             {"day": "Domingo", "temp": 86}
         ]
     ],
-    [   # Ciudad 2
+    [   # Guayaquil
         [   # Semana 1
             {"day": "Lunes", "temp": 55},
             {"day": "Martes", "temp": 57},
@@ -75,7 +75,7 @@ temperaturas = [
             {"day": "Domingo", "temp": 66}
         ]
     ],
-    [   # Ciudad 3
+    [   # Cuenca
         [   # Semana 1
             {"day": "Lunes", "temp": 75},
             {"day": "Martes", "temp": 77},
