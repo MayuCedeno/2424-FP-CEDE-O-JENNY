@@ -7,7 +7,7 @@ def temperatura_promedio(ciudades_temperaturas):
 
 
 # Creamos un diccionario de ciudades y temperaturas
-ciudades_temperaturas = {
+ciudades_temperaturas = {ç
     "Santo Domingo": [79, 61, 77, 86, 53],
     "Guayaquil": [68, 69, 88, 79, 87],
     "Cuenca": [55, 48, 74, 55, 73],
